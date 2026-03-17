@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pat</h1>
-<h3 align="center">Aspiring Data Analyst, Data Engineer</h3>
 
-- 🎓 Currently **a junior ICT student, specialize in Database**
+- 🎓 Junior ICT Student specializing in Database Systems
+
+- 📊 Interested in **Data Analysis** and **Data Engineering**
 
 - 📫 How to reach me **patpt.suk@gmail.com**
 
