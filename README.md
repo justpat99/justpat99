@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pat</h1>
 
-- 🎓 Junior ICT Student specializing in Database Systems
+- 🎓 Junior ICT Student specializing in Database
 
 - 📊 Interested in **Data Analysis** and **Data Engineering**
 
